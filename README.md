@@ -3,24 +3,24 @@
 <h1 align="center">Hi 👋, I'm Yusuf Sherif</h1>
 <h3 align="center">A passionate Back-end developer from Egypt </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=StylishCS&label=Profile%20views&color=0e75b6&style=flat" alt="StylishCS" /> </p>
 
-- 🔭 I’m currently working on **`[Akodo]`** (Private Repository)
+- 🔭 I’m currently working on **`[Akodo]`** ([Repository]https://github.com/StylishCS/AkodoAPI)
 
-- 🌱 I’m currently learning **flutter, kotlin, jetpack compose, node js**
+- 🌱 I’m currently learning **ASP .NET Core, MSSQL**
 
-- 👯 I’m looking to collaborate on **`[Akodo]`** (Private Repository)
+- 👯 I’m looking to collaborate on **`[Akodo]`** ([Repository]https://github.com/StylishCS/AkodoAPI)
 
-- 💬 Ask me about **dart, flutter, firebase, google maps**
+- 💬 Ask me about **NodeJS, ExpressJS, NestJS, MongoDB, MySQL**
 
-- 📫 How to reach me **gcfjxvkj@gmail.com**
+- 📫 How to reach me **joeshirf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/m7mood69" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="m7mood69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud-el-sayed-b0b19b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-el-sayed-b0b19b262" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mahmoudelsayed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moknk.argere" height="30" width="40" /></a>
-<a href="https://instagram.com/theonlymahmoud_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theonlymahmoud_" height="30" width="40" /></a>
+<a href="https://x.com/YusefSheri9996" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="YusefSheri9996" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yusef-sherif-158855262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusef-sherif-158855262" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007282608318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moknk.argere" height="30" width="40" /></a>
+<a href="https://instagram.com/_randomjoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_randomjoe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
