@@ -25,8 +25,8 @@
 <a href="https://instagram.com/_randomjoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_randomjoe" height="30" width="40" /></a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=reemhassan742&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemhassan742&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=StylishCS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StylishCS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
