@@ -296,8 +296,13 @@
       </a>
     </p>
 
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=StylishCS&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StylishCS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
+<div align="center">
+
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=StylishCS&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StylishCS&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
 |---|---|
+
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
